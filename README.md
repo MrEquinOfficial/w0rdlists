@@ -1,2 +1,2 @@
 # w0rdlists
-Simple
+Simple Wordlist Pack
